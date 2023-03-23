@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JapaneseLangApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/PrimaryBackground</item>
+        <item name="colorPrimaryDark">@color/PrimaryBackground</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="android:navigationBarColor">@color/PrimaryBackground</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.JapaneseLangApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.JapaneseLangApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.JapaneseLangApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

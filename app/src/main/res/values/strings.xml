@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Japa Lang</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aprenda Japa</string>
+    <string name="nav_header_subtitle">japa-lang@nihongo.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_hiragana">HIRAGANA</string>
+    <string name="menu_katakana">KATAKANA</string>
+    <string name="menu_kanji">KANJI</string>
+    <string name="menu_number">NUMERAL</string>
+    <string name="menu_greetings">CUMPRIMENTOS</string>
+    <string name="menu_name_translate">TRADUZA SEU NOME</string>
+    <string name="menu_name_jisho">DICIONÁRIO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="jisho">DICIONÁRIO</string>
+
+    <!-- audios .Mp3 -->
+    <string-array name="audios">
+        <item name="ohayou_gozaimasu">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_ohayou_gozaimasu.mp3</item>
+        <item name="konnichiwa">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_konnichiwa.mp3</item>
+        <item name="konbanwa">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_konbanwa.mp3</item>
+        <item name="oyasuminasai">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_oyasuminasai.mp3</item>
+        <item name="sayounara">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_sayounara.mp3</item>
+        <item name="mata_ashita">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_mata_ashita.mp3</item>
+        <item name="hajimemashite">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_hajimemashite.mp3</item>
+        <item name="hajimemashite_namae_desu">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_hajimemashite_namae_desu.mp3</item>
+        <item name="ikaga_desuka">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_ikaga_desuka.mp3</item>
+        <item name="ogenki_desuka">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_ogenki_desuka.mp3</item>
+        <item name="arigatou_gozaimasu">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_doumo_arigatou_gozaimasu.mp3</item>
+        <item name="sumimasen">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_sumimasen.mp3</item>
+        <item name="gomenassai">http://japones.xisde.org/wp-content/uploads/2016/11/voc01_gomenassai.mp3</item>
+    </string-array>
+
+    <string-array name="greatings">
+        <item name="ohayou_gozaimasu">おはよう　ございます。</item>
+        <item name="konnichiwa">こんにちは。</item>
+        <item name="konbanwa">こんばんは。</item>
+        <item name="oyasuminasai">おやすみなさい。</item>
+        <item name="sayounara">さようなら。</item>
+        <item name="mata_ashita">またあした。</item>
+        <item name="hajimemashite">はじめまして。</item>
+        <item name="hajimemashite_namae_desu">はじめまして、_______ です。</item>
+        <item name="ikaga_desuka">いかが　ですか。</item>
+        <item name="ogenki_desuka">おげんき　ですか。</item>
+        <item name="arigatou_gozaimasu">どうも　ありがとう　ございます。</item>
+        <item name="sumimasen">すみません。</item>
+        <item name="gomenassai">ごめんなさい。</item>
+    </string-array>
+
+    <string-array name="greatings_PT_BR">
+        <item name="ohayou_gozaimasu">Bom dia.</item>
+        <item name="konnichiwa">Boa tarde. (1)</item>
+        <item name="konbanwa">Boa noite. (1)</item>
+        <item name="oyasuminasai">Boa noite. (2)</item>
+        <item name="sayounara">Adeus. (3)</item>
+        <item name="mata_ashita">Até amanhã.</item>
+        <item name="hajimemashite">Muito prazer.</item>
+        <item name="hajimemashite_namae_desu">Muito prazer, me chamo ________.</item>
+        <item name="ikaga_desuka">Como vai? (4)</item>
+        <item name="ogenki_desuka">Você vai bem? (4)</item>
+        <item name="arigatou_gozaimasu">Muito obrigado.</item>
+        <item name="sumimasen">Com licença. / Desculpe.</item>
+        <item name="gomenassai">Desculpe/ Me perdoe.</item>
+    </string-array>
+
+
+</resources>

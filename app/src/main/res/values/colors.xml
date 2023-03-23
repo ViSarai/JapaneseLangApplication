@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Here you can add color of your choice  -->
+    <color name="ucrop_color_toolbar">#DDFF50</color>
+    <color name="ucrop_color_statusbar">#DDFF50</color>
+    <color name="ucrop_color_widget_active">#DDFF50</color>
+    <color name="white">#ffffff</color>
+
+    <color name="c_1">#E61D1D1D</color>
+    <color name="c_2">#90000000</color>
+    <color name="PrimaryBackground">#E20000</color>
+    <color name="PrimaryLighBackground">#121212</color>
+    <color name="SecondaryPackageBackground">#30ffffff</color>
+    <color name="MutedText">#FFFFFF</color>
+    <color name="PrimaryColor">#DDFF50</color>
+    <color name="TextOverSplashImage">#ffffff</color>
+    <color name="PrimaryButtonBackground">#E20000</color>
+    <color name="red">#E20000</color>
+    <color name="SecondaryButtonBackground">#FCFF71</color>
+    <color name="SelectedPlayerBackground">#004d8f</color>
+    <color name="black">#000000</color>
+    <color name="PrimaryText">#ffffff</color>
+    <color name="ColorBronze">#A2664A</color>
+    <color name="ColorPrata">#707070</color>
+    <color name="ColorOuro">#97743E</color>
+    <color name="PrimaryAnchor">#E20000</color>
+    <color name="TabBarBackground">#1c1c1c</color>
+    <color name="TabBarMutedText">#60ffffff</color>
+    <color name="TabBarSelected">#DDFF50</color>
+    <color name="TabBarPerfilSelected">#000000</color>
+    <color name="TabBarUnselected">#000000</color>
+    <color name="PrimaryCardBackground">#000000</color>
+    <color name="PrimaryCardElements">#FFFFFF</color>
+    <color name="SecondaryCardElements">#fa314d</color>
+    <color name="AlternativeCardBackground">#000000</color>
+    <color name="AlternativeCardElements">#000000</color>
+    <color name="PageHeaderBackground">#232323</color>
+    <color name="PageHeaderText">#ffffff</color>
+    <color name="AudioLibraryMainButtonBackground">#035AA4</color>
+    <color name="AudioLibraryMainButtonText">#ffffff</color>
+    <color name="AudioLibrarySecondaryButtonBackground">#FFFFFF</color>
+    <color name="AudioLibrarySecondaryButtonText">#FFFFFF</color>
+    <color name="SurveyOptionBackground">#ffffff</color>
+    <color name="SurveyOptionText">#000000</color>
+    <color name="SurveyOptionProgress">#fad816</color>
+    <color name="MembershipCardPrimaryElements">#ffffff</color>
+    <color name="MembershipCardSecondaryElements">#aaaaaa</color>
+    <color name="TwitterCardBackground">#000000</color>
+    <color name="TwitterCardPrimaryText">#FFFFFF</color>
+    <color name="TwitterCardMutedText">#969696</color>
+    <color name="TwitterCardAnchor">#0084b4</color>
+    <color name="colorButtonWhiteTransp">#E5D0D0D0</color>
+    <color name="colorButtonBlackTransp">#EB1A0C</color>
+    <color name="colorGray6">#707070</color>
+    <color name="colorGray5">#A0A0A0</color>
+    <color name="colorAccent">#EE3124</color>
+    <color name="colorEspecial">#FA314D</color>
+
+    <!--Custom Ubots-->
+    <color name="toolbarTextColor">#000000</color>
+    <color name="toolbarColor">#fefefe</color>
+    <color name="chatBackgroundColor">#ffffff</color>
+    <color name="colorFileButton">#d25d55</color>
+    <color name="colorSendButton">#c3281e</color>
+    <color name="colorDateText">#575757</color>
+    <color name="quickButtonStrokeColor">#d25d55</color>
+    <color name="messageStrokeColor">#d25d55</color>
+    <color name="messageBackgroundColor">#ffffff</color>
+    <color name="colorSender">#e5e5e5</color>
+    <color name="colorTextSender">#414141</color>
+    <color name="colorTextReceiverName">#ffffff</color>
+    <color name="colorReceiver">#2d2d2d</color>
+    <color name="colorTextReceiver">#ffffff</color>
+    <color name="genericTitle">#ffffff</color>
+    <color name="genericSubTitle">#ffffff</color>
+    <color name="genericButtons">#aaaaaa</color>
+
+</resources>
